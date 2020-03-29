@@ -1,6 +1,4 @@
-package review;
-
-import java.util.Scanner;
+package MARCH08;
 
 public class A5GatesStringSwitchCase {
     public static void main(String[] args) {

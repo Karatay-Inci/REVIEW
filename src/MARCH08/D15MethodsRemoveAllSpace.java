@@ -1,4 +1,4 @@
-package review;
+package MARCH08;
 
 public class D15MethodsRemoveAllSpace {
     /*WRITE  A METHOD TO REMOVE ALL SPACES GIVEN SENTENCE
